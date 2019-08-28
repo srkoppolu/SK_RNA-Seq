@@ -10,4 +10,4 @@ The basic steps involved in the pipeline are:
 4. [Alignment Quality Check](https://github.com/srkoppolu/SK_RNA-Seq/wiki/Step-4:-Alignment-Quality-Control)
 5. [Count Mapped Reads](https://github.com/srkoppolu/SK_RNA-Seq/wiki/Step-5:-Count-Mapped-Reads)
 6. [Differential Expression Analysis](https://github.com/srkoppolu/SK_RNA-Seq/wiki/Step-6:-Differential-Expression-Analysis)
-7. Pathway Analysis
+
